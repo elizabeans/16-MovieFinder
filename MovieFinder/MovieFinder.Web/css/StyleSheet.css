@@ -1,0 +1,10 @@
+﻿.row {
+    margin-top: 1em;
+}
+
+.panel {
+    border: 1px solid turquoise;
+}
+.panel-heading {
+    background-color: turquoise;
+}
