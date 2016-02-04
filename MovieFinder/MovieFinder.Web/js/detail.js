@@ -1,0 +1,1 @@
+﻿$('#result').load('index.html #container');

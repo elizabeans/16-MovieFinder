@@ -4,6 +4,7 @@
 
 .panel {
     border: 1px solid turquoise;
+    height: 10em;
 }
 .panel-heading {
     background-color: turquoise;
